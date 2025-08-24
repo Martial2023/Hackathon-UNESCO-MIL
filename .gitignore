@@ -1,0 +1,8 @@
+# Ignorer le dossier de l'environnement virtuel
+.fake_news/
+
+# Ignorer les fichiers de configuration et les données sensibles
+.env
+
+# Ignorer les fichiers Python générés automatiquement
+__pycache__/
